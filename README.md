@@ -1,0 +1,2 @@
+# mintexBrick
+proto
